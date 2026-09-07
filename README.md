@@ -13,8 +13,9 @@ To solve this and guarantee 100% sequential test coverage without maintaining a 
 You only need one **TBox Set Buffer** step with two quick rows inside your TestCase:
 
 | Buffer Name | Value | ActionMode |
-Name: Color? | Value: 0 | ActionMode: Input
-Name: Color | Value: {MATH[({B[Color]}+0)%3+1]} | ActionMode: Input
+| :--- | :--- | :--- |
+| **Color?** | `0` | `Input` |
+| **Color** | `{MATH[({B[Color]}+0)%3+1]}` | `Input` |
 
 ### Why this works beautifully:
 The magic is that tiny question mark (`Color?`). It tells Tosca: *“Only set this buffer to 0 if it doesn't exist yet.”* 
