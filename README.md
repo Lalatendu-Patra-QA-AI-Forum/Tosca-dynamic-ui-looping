@@ -42,17 +42,18 @@ id('color-squares-11')/li["{B[Color]}"]/label/span/span
 ## 📸 SCREENSHOTS SEQUENCE
 
 ### 1️⃣ E-Commerce Site Selection
-![E-Commerce Site](E-Commerce Site.png)
+![E-Commerce Site](E-Commerce%20Site.png)
 
 ### 2️⃣ The Exact Module Attribute Configuration
-![Module Attribute](The exact Module attribute.png)
+![Module Attribute](The%20exact%20Module%20attribute.png)
 
 ### 3️⃣ TestCase Layout: Step 1 (Conditional Buffer Initialization)
-![Test Step 1](The test step 1.png)
+![Test Step 1](The%20test%20step%201.png)
 
 ### 4️⃣ TestCase Layout: Step 2 (Modulo Math Expression)
-![Test Step 2](The test step 2.png)
+![Test Step 2](The%20test%20step%202.png)
 
 ### 5️⃣ TestCase Layout: Step 3 (Dynamic Steering Selection)
-![Test Step 3](The test step 3.png)
+![Test Step 3](The%20test%20step%203.png)
+
 
