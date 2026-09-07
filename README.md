@@ -37,4 +37,22 @@ id('color-squares-11')/li["{B[Color]}"]/label/span/span
 * **Zero Maintenance:** It’s 100% self-contained. You don't have to touch your Project Settings or build local variables. 
 * **Pipeline Ready:** You can hand this script off to a teammate or push it to a CI/CD agent, and it will run instantly without throwing a "Buffer not found" error.
 * **Guaranteed Coverage:** If you trigger your test suite 3 times, you are guaranteed to test all 3 product variations exactly once.
+---
+
+## 📸 SCREENSHOTS SEQUENCE
+
+### 1️⃣ E-Commerce Site Selection
+![E-Commerce Site](E-Commerce Site.png)
+
+### 2️⃣ The Exact Module Attribute Configuration
+![Module Attribute](The exact Module attribute.png)
+
+### 3️⃣ TestCase Layout: Step 1 (Conditional Buffer Initialization)
+![Test Step 1](The test step 1.png)
+
+### 4️⃣ TestCase Layout: Step 2 (Modulo Math Expression)
+![Test Step 2](The test step 2.png)
+
+### 5️⃣ TestCase Layout: Step 3 (Dynamic Steering Selection)
+![Test Step 3](The test step 3.png)
 
